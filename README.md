@@ -1,16 +1,25 @@
-## Hi there 👋
+ Hi there, I'm Rajeshwari 👋 
 
-<!--
-**kraje3001-happy/kraje3001-happy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Ex-IBM System Support Engineer | Transitioning to Cloud Engineering
 
-Here are some ideas to get you started:
+Experienced IT Professional with a deep background in enterprise systems at **IBM**. Currently leveraging a career break to master **Cloud Architecture**, **Cybersecurity**, and **Linux Administration**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech & Tools
+- **Cloud:** AWS (Learning/Solutions Architect), Azure
+- **OS:** Linux (Ubuntu, Bash Scripting)
+- **Security:** Server Hardening, Firewall Management, IAM
+- **Version Control:** Git, GitHub
+
+### 📈 Current Focus
+- 🚀 Deploying scalable infrastructure as code.
+- 🔐 Implementing "Security-First" protocols for Linux environments.
+- ☁️ Preparing for the AWS Certified Solutions Architect exam.
+
+### 🤝 Let's Connect
+- www.linkedin.com/in/rajeshwari-k-306442271
+- 📧 kraje3001@gmail.com
+
+*"Returning to tech with a fresh perspective and a solid foundation in enterprise stability."*
+
