@@ -7,7 +7,7 @@ Experienced IT Professional with a deep background in enterprise systems at **IB
 ---
 
 ### 🛠 Tech & Tools
-- **Cloud:** AWS (Learning/Solutions Architect), Azure
+- **Cloud:** AWS (Learning/Solutions Architect)
 - **OS:** Linux (Ubuntu, Bash Scripting)
 - **Security:** Server Hardening, Firewall Management, IAM
 - **Version Control:** Git, GitHub
@@ -15,7 +15,7 @@ Experienced IT Professional with a deep background in enterprise systems at **IB
 ### 📈 Current Focus
 - 🚀 Deploying scalable infrastructure as code.
 - 🔐 Implementing "Security-First" protocols for Linux environments.
-- ☁️ Preparing for the AWS Certified Solutions Architect exam.
+- ☁️ Preparing for the AWS CLOUDOPS exam.
 
 ### 🤝 Let's Connect
 - www.linkedin.com/in/rajeshwari-k-306442271
